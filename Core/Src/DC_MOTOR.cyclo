@@ -1,0 +1,5 @@
+../Core/Src/DC_MOTOR.c:10:6:Set_motor_RL_direction	3
+../Core/Src/DC_MOTOR.c:25:6:Set_motor_FR_direction	3
+../Core/Src/DC_MOTOR.c:43:6:Stop_motor_RL	1
+../Core/Src/DC_MOTOR.c:48:6:Stop_motor_FR	1
+../Core/Src/DC_MOTOR.c:81:6:Set_pwm_duty_FR_motor	1
